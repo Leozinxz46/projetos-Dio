@@ -1,3 +1,4 @@
+package edu.leonardo.anatomiaDasClasses;
 public class MinhaClasse1 {
 
 // Metodo MAIN e um metodo executavel ou seja executa um programa em java

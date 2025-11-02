@@ -1,3 +1,4 @@
+package edu.leonardo.anatomiaDasClasses;
 public class MinhaClasse3 {
 
 

@@ -1,3 +1,4 @@
+package edu.leonardo.tiposVariaveis;
 public class constantes {   
     public static void main(String[] args) {
         //Constantes em java:

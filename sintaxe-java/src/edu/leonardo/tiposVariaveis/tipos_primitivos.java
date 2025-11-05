@@ -1,3 +1,4 @@
+package edu.leonardo.tiposVariaveis;
 public class tipos_primitivos {
     public static void main(String[] args) {
         
